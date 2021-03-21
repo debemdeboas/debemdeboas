@@ -1,15 +1,17 @@
 # 👋 Ciao a tutti e benvenuti!
 
-Welcome to my profile. My name is Rafael (he/him) and I'm a software developer currently based in Brazil.
+Welcome to my profile. My name is Rafael Almeida (he/him), and I'm a software developer currently based in Brazil.
 I'm a CommpSci student at PUCRS (Porto Alegre) and a back-end developer at [Nelogica Sistemas de Software](https://www.nelogica.com.br).
 
 ### About me (now with pictures!)
 
-My interests are multiprocessing, distributed systems, SaaS, automation (mainly Ansible) and mid-level languages such as Delphi and C++.
+My interests are multiprocessing, distributed systems, SaaS, automation (mainly Ansible), and mid-level languages such as Delphi and C++.
 
-I've worked with Embarcadero's Delphi since the beggining of 2019 and with Ansible since the end of that same year. Most of the code I've written outside of my current company is open-source and here on Github.
+I've worked with Embarcadero's Delphi since the beginning of 2019 and with Ansible since the end of 2019. Most of the code I've written outside of my current company is open-source and here on Github.
 
-I have two cats and two dogs and I love them to bits. Also, I really enjoy my homemade shortbread over a cup of black tea (with milk, of course).
+I have two cats and two dogs, and I love them to bits. My Instagram stories often involve them. Also, I enjoy my homemade shortbread over a cup of black tea (with milk, of course).
+
+I speak fluent Portuguese (my mother tongue) and English. I'm also studying Italian and Japanese.
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=debemdeboas&count_private=true&show_icons=true&theme=onedark">
@@ -24,7 +26,7 @@ I have two cats and two dogs and I love them to bits. Also, I really enjoy my ho
 
 #### Where to find me
 
-I'm often found at either my Instagram or Twitter accounts (I mostly post in portuguese, sorry), depending on my mood for the day.
+For general messages and business inquiries, please don't hesitate to [send me an email](mailto:contact@debem.dev). Otherwise, you can reach me at either my Instagram or Twitter accounts.
 
 <a href="https://www.instagram.com/debemdeboas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
