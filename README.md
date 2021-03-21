@@ -1,6 +1,6 @@
 # 👋 Ciao a tutti e benvenuti!
 
-Welcome to my profile. My name is Rafael Almeida (he/him), and I'm a software developer currently based in Brazil.
+Welcome to my profile. My name is Rafael Almeida de Bem (he/him), and I'm a software developer currently based in Brazil.
 I'm a CommpSci student at PUCRS (Porto Alegre) and a back-end developer at [Nelogica Sistemas de Software](https://www.nelogica.com.br).
 
 ### About me (now with pictures!)
