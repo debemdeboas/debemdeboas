@@ -5,6 +5,12 @@ I'm a CommpSci student at PUCRS (Porto Alegre) and a back-end developer at [Nelo
 
 ### About me (now with pictures!)
 
+My interests are multiprocessing, distributed systems, SaaS, automation (mainly Ansible) and mid-level languages such as Delphi and C++.
+
+I've worked with Embarcadero's Delphi since the beggining of 2019 and with Ansible since the end of that same year. Most of the code I've written outside of my current company is open-source and here on Github.
+
+I have two cats and two dogs and I love them to bits. Also, I really enjoy my homemade shortbread over a cup of black tea (with milk, of course).
+
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=debemdeboas&count_private=true&show_icons=true&theme=onedark">
         <img src="https://github-readme-stats.vercel.app/api?username=debemdeboas&count_private=true&show_icons=true&theme=onedark">
@@ -34,8 +40,9 @@ I'm often found at either my Instagram or Twitter accounts (I mostly post in por
 
 #### Help me out
 
-If you want to buy me a coffee (bless your soul), feel free to send some bitcoins to my wallet (bitcoin:1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs) or through PayPal.
+If you want to buy me a coffee (bless your soul), feel free to send some bitcoins to my wallet or through PayPal.
 And if you live in Brazil, you can also send me a PIX.
+Sadly, it seems that GitHub's Markdown rendering system does not support the [BIP21](https://en.bitcoin.it/wiki/BIP_0021) Bitcoin protocol, making my `bitcoin:` badge not so functional.
 
 <a rel="nofollow" class="external free" href="bitcoin:1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs">
     <img src="https://img.shields.io/badge/Bitcoin-1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs-333333?style=for-the-badge&logo=bitcoin&logoColor=white">
