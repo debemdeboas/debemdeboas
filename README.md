@@ -34,7 +34,7 @@ I'm often found at either my Instagram or Twitter accounts (I mostly post in por
 
 #### Help me out
 
-If you want to buy me a coffee (bless your soul), feel free to send some bitcoins to my wallet ([here](bitcoin:1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs)) or through PayPal.
+If you want to buy me a coffee (bless your soul), feel free to send some bitcoins to my wallet (bitcoin:1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs) or through PayPal.
 And if you live in Brazil, you can also send me a PIX.
 
 <a rel="nofollow" class="external free" href="bitcoin:1HTq2tdLYDTXmp7jmoiXAykcUFF2k9VMvs">
