@@ -6,6 +6,7 @@ I'm a CommpSci student at PUCRS (Porto Alegre) and a back-end developer at [Nelo
 ### About me (now with pictures!)
 
 My interests are multiprocessing, distributed systems, SaaS, automation (mainly Ansible), and mid-level languages such as Delphi and C++.
+Lately, however, Python has become my main programming language and I've fallen in love with it.
 
 I've worked with Embarcadero's Delphi since the beginning of 2019 and with Ansible since the end of 2019. Most of the code I've written outside of my current company is open-source and here on Github.
 
