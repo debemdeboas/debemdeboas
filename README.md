@@ -1,6 +1,6 @@
 # 👋 Ciao a tutti e benvenuti!
 
-## I have fully migrated to [GitLab](https://gitlab.com/debemdeboas) and this account will no longer be updated.
+> All of my personal projects are on [GitLab](https://gitlab.com/debemdeboas)!
 
 <a href="https://gitlab.com/debemdeboas">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
