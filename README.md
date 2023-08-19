@@ -1,7 +1,13 @@
 # 👋 Ciao a tutti!
 
-> [!NOTE]
-> My personal projects are on [GitLab](https://gitlab.com/debemdeboas)!
+> [!IMPORTANT]
+> **All** of my personal projects are on [GitLab](https://gitlab.com/debemdeboas)!
+
+Hi! My name is Rafael and I'm a Computer Scientist student currently based in Porto Alegre, Brazil.
+I aim to develop elegant solutions for complex problems.
+I'm currently working as a software engineer and R&D analyst.
+
+I'm trying to learn neovim.
 
 [![GitHub Stats](https://github-readme-stats.debem.dev/api?username=debemdeboas&show=reviews,prs&show_icons=true&hide=contribs&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true)](https://github-readme-stats.debem.dev/)
 [![Most used languages](https://github-readme-stats.debem.dev/api/top-langs?username=debemdeboas&show_icons=true&exclude_repo=linux-kernel-labsisop,github-readme-stats&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true&layout=compact&langs_count=8)](https://github-readme-stats.debem.dev/)
