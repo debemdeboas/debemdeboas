@@ -1,7 +1,4 @@
-# 👋 Ciao a tutti!
-
-> [!IMPORTANT]
-> **All** of my personal projects are on [GitLab](https://gitlab.com/debemdeboas)!
+# 👋 Ciao
 
 Hi! My name is Rafael and I'm a Computer Scientist student currently based in Porto Alegre, Brazil.
 I aim to develop elegant solutions for complex problems.
