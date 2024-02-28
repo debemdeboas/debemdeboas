@@ -1,7 +1,8 @@
 <h1 align="center">Rafael de Bem</h1>
 <div align="center">
-    <b>Software Engineer | Machine learning | DevOps | Automation | 🐧🐍 </b><br><br>
+    <b>Software Engineer | Machine learning | DevOps | Automation | ❤️<img height="24em" align="center" src="linux-svgrepo-com.svg"/> <img height="24em" align="center" src="docker-svgrepo-com.svg"/> <img height="24em" align="center" src="python-svgrepo-com.svg"/> <img height="24em" align="center" src="go-svgrepo-com.svg"/> </b><br><br>
 </div>
+
 
 <!-- <div align="right" style="margin:auto">
 <a href="">
