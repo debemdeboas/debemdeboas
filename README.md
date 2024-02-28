@@ -1,13 +1,33 @@
-# 👋 Ciao
+<h1 align="center">Rafael de Bem</h1>
+<div align="center">
+    <b>Software Engineer | Machine learning | DevOps | Automation | 🐧🐍 </b><br><br>
+</div>
 
-Hi! My name is Rafael and I'm a Computer Scientist student currently based in Porto Alegre, Brazil.
-I aim to develop elegant solutions for complex problems.
-I'm currently working as a software engineer and R&D analyst.
+<!-- <div align="right" style="margin:auto">
+<a href="">
+    <img src="https://github-readme-stats.debem.dev/api?username=debemdeboas&show=reviews,prs&show_icons=true&hide=contribs&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true"
+        alt="My GitHub Stats"
+        height="170em"
+        align="right">
+</a>
+</div> -->
+<div align="right" style="margin:auto">
+<a href="">
+    <img src="https://github-readme-stats.debem.dev/api/top-langs?username=debemdeboas&show_icons=true&exclude_repo=linux-kernel-labsisop,github-readme-stats&hide=jupyter%20notebook&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true&layout=compact&langs_count=8"
+        alt="My most used languages"
+        width="300em"
+        align="right">
+</a>
+</div>
 
-### GitHub stats
+Hi! My name is Rafael, aka [**@debemdeboas**](https://x.com/debemdeboas) and I'm a software engineer and Computer Scientist student currently based in Porto Alegre, Brazil.
+My current interests are GoLang, C, home automation and machine learning.
 
-[![GitHub Stats](https://github-readme-stats.debem.dev/api?username=debemdeboas&show=reviews,prs&show_icons=true&hide=contribs&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true)](https://github-readme-stats.debem.dev/)
-[![Most used languages](https://github-readme-stats.debem.dev/api/top-langs?username=debemdeboas&show_icons=true&exclude_repo=linux-kernel-labsisop,github-readme-stats&hide=jupyter%20notebook&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&disable_animations=true&layout=compact&langs_count=8)](https://github-readme-stats.debem.dev/)
+I currently work as an _Automation R&D Specialist and Software Engineer_ at [**TK Elevator**](https://www.tkelevator.com/us-en/), an international transportation solutions company.
+
+I've previously been employed at [Loggi](https://github.com/loggi/) &ndash; an urban logistics company &ndash; and at [Nelogica](https://www.nelogica.com.br/), a platform for financial markets (stocks, crypto, options, etc).
+
+<br/>
 
 ---
 
