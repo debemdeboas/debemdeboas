@@ -52,4 +52,4 @@ I've previously been employed at [Loggi](https://github.com/loggi/) &ndash; an u
 
 </div>
 
-PS: If you're wondering about my background, GitHub's MathJax library has a CSS injection vulnerability which allows users to change their profile backgrouns (among other things).
+PS: If you're wondering about my background, GitHub's MathJax library has a CSS injection vulnerability which allows users to change their profile backgrounds (among other things).
