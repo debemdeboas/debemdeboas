@@ -30,7 +30,7 @@ My current interests are GoLang, C, home automation and machine learning.
 
 I currently work as an _Automation R&D Specialist and Software Engineer_ at [**TK Elevator**](https://www.tkelevator.com/us-en/), an international transportation solutions company.
 
-I've previously been employed at [Loggi](https://github.com/loggi/) &ndash; an urban logistics company &ndash; and at [Nelogica](https://www.nelogica.com.br/), a platform for financial markets (stocks, crypto, options, etc).
+I've previously been employed at [Loggi](https://github.com/loggi/) &ndash; an urban logistics company &ndash; and at [Nelogica](https://www.nelogica.com.br/), a trading and charting platform (stocks, crypto, options, etc).
 
 <br/>
 
