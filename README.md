@@ -1,6 +1,6 @@
-```math
+<!--```math
 \ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/debemdeboas/debemdeboas/assets/35022953/67cf8198-c667-4b38-ad91-28624ff09085') no-repeat center center fixed; background-size: cover;]{x0000}$}
-```
+```-->
 <h1 align="center">Rafael de Bem</h1>
 
 <div align="center">
@@ -51,5 +51,3 @@ I've previously been employed at [Loggi](https://github.com/loggi/) &ndash; an u
 </a>
 
 </div>
-
-PS: If you're wondering about my background, GitHub's MathJax library has a CSS injection vulnerability which allows users to change their profile backgrounds (among other things).
